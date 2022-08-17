@@ -1,6 +1,6 @@
 # Efeitos
 
- <div align='center'>Pequeno menu com uma lista, desenvolvido para exercitar os efeitos do CSS. Neste projeto temos efeitos de transparência no menu principal, e elementos decorativos desenvolvidos com conteúdos fantasmas...</div>
+ <div align='center'>Pequeno menu com uma lista, desenvolvido para exercitar os efeitos do CSS. Neste projeto temos efeitos de transparência no menu principal, e elementos decorativos desenvolvidos com conteúdos fantasmas, além de efeitos com filtro de fundo...</div>
 
 ## Tecnologias Utilizadas:
 * HTML
