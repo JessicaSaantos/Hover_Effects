@@ -45,4 +45,11 @@ section::after{
     border-radius: 10px;
     border-bottom: 1px solid;
     z-index: 10;
+    padding: 10px;
+    backdrop-filter: blur(25px); 
+}
+
+.box h3 {
+color: white;
+
 }
