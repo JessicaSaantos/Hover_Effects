@@ -46,4 +46,11 @@ section::after{
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
     border-right: 1px solid rgba(255, 255, 255, 0.2);
     z-index: 10;
+    padding: 10px;
+    backdrop-filter: blur(25px); 
+}
+
+.box h3 {
+color: white;
+margin-bottom: 20px; 
 }
